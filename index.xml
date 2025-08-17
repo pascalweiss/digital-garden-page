@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Pascal&#039;s Digital Garden</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Pascal&#039;s Digital Garden</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>digital garden iCloud sync to git</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/digital-garden-iCloud-sync-to-git</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/digital-garden-iCloud-sync-to-git</guid>
+    <description>public zettelkasten-sync This is a tool that keeps the git repository for my Zettelkasten in sync with the current state in the iCloud.</description>
+    <pubDate>Wed, 14 May 2025 13:38:00 GMT</pubDate>
+  </item><item>
+    <title>insta - practical psychology - ulysses rule</title>
+    <link>https://quartz.jzhao.xyz/input/video/insta---practical-psychology---ulysses-rule</link>
+    <guid>https://quartz.jzhao.xyz/input/video/insta---practical-psychology---ulysses-rule</guid>
+    <description>video punlic www.instagram.com/reel/DJeOeI9ofSK/.</description>
+    <pubDate>Sun, 11 May 2025 23:33:00 GMT</pubDate>
+  </item><item>
+    <title>Odysseus Vertrag</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/Odysseus-Vertrag</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/Odysseus-Vertrag</guid>
+    <description>public Man legt sich selbst bestimmte Regeln auf, um sich vor unerwünschten Verhalten, durch z.B. Irrationalität oder Impulsivität, abzuhalten.</description>
+    <pubDate>Sun, 11 May 2025 23:16:00 GMT</pubDate>
+  </item><item>
+    <title>homelab - traefik</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/homelab---traefik</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/homelab---traefik</guid>
+    <description>public Reverse proxy for routing to all services that are not in the kubernetes cluster.</description>
+    <pubDate>Sun, 04 May 2025 15:30:00 GMT</pubDate>
+  </item><item>
+    <title>homelab - nexus</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/homelab---nexus</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/homelab---nexus</guid>
+    <description>public Link: nexus.pwlab.dev The following repositories are installed: Docker A docker (OCI) repository for docker images.</description>
+    <pubDate>Sun, 04 May 2025 15:24:00 GMT</pubDate>
+  </item><item>
+    <title>homelab - FORUM0</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/homelab---FORUM0</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/homelab---FORUM0</guid>
+    <description>This is a mini PC of type Minis Forum Venus Series UM773. The following sections give an overview about the deployed software components.</description>
+    <pubDate>Sun, 04 May 2025 15:22:00 GMT</pubDate>
+  </item><item>
+    <title>youtube - bytebytego - top 5 rollout strategies</title>
+    <link>https://quartz.jzhao.xyz/input/video/youtube---bytebytego---top-5-rollout-strategies</link>
+    <guid>https://quartz.jzhao.xyz/input/video/youtube---bytebytego---top-5-rollout-strategies</guid>
+    <description>youtube youtu.be/AWVTKBUnoIg.</description>
+    <pubDate>Fri, 25 Apr 2025 12:53:00 GMT</pubDate>
+  </item><item>
+    <title>SSL - TLS - Handshake</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/SSL---TLS---Handshake</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/SSL---TLS---Handshake</guid>
+    <description>public Clear handshake overview Detailed handshake The following graph includes authentication with CA Details on how SESSION MASTER KEY is created.</description>
+    <pubDate>Fri, 04 Apr 2025 09:01:00 GMT</pubDate>
+  </item><item>
+    <title>Terminal shortcuts</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/Terminal-shortcuts</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/Terminal-shortcuts</guid>
+    <description> Ctrl+x then Ctrl+x: Toggle between current position and start of line Ctrl+w: Cut the word before the cursor Option+d (Alt+d): Delete the word after the cursor .</description>
+    <pubDate>Sat, 22 Mar 2025 12:46:00 GMT</pubDate>
+  </item><item>
+    <title>IT Productivity</title>
+    <link>https://quartz.jzhao.xyz/zettelkasten/IT-Productivity</link>
+    <guid>https://quartz.jzhao.xyz/zettelkasten/IT-Productivity</guid>
+    <description>index public Terminal shortcuts .</description>
+    <pubDate>Sat, 22 Mar 2025 12:23:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
