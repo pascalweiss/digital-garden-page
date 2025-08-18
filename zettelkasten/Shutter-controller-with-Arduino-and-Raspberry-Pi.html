@@ -155,7 +155,7 @@ The sockets in the blue area can optionally be used for applying a manual wall s
 Finally you have to couple the remote switch to the receiver by
 pressing the connect button - the LED starts flashing - , and by pressing one of the “ON” buttons on
 the remote. The coupling was successful, when the LED on the receiver stopps flashing.</p>
-<p><img src="../schema_remote.png" width="auto" height="auto" alt/></p>
+<p><img src="../zzz/assets/shutter-controller/schema_remote.png" width="auto" height="auto" alt/></p>
 <p>When everything is set up correctly, you are now able to control the motor with the remote.
 By pressing either ON or OFF on the remote you will hear the clicking of a relay, and the motor will start moving in the corresponding direction.</p>
 <h1 id="integration-level-2-control-the-shutter-with-an-arduino-and-a-poti">Integration level 2: Control the shutter with an arduino and a poti<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#integration-level-2-control-the-shutter-with-an-arduino-and-a-poti" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
@@ -181,7 +181,7 @@ This is done as follows:</p>
 <li>Connect the D2 connector with the data connector of the 433 Mhz sender. Also connect VCC to 5V, and GND to GND (see the following schema).
 Note: You may want to use jumper cables for the wiring, since you might want to reuse the Arduino as remote controller in the next step.</li>
 </ol>
-<p><img src="../schema_sniffer.png" width="auto" height="auto" alt/></p>
+<p><img src="../zzz/assets/shutter-controller/schema_sniffer.png" width="auto" height="auto" alt/></p>
 <ol>
 <li>Now that everything is wired up, we install the sniffing software on the Arduino.
 Copy &amp; paste the following code into the IDE or open the file in the repository (see above).</li>
@@ -230,7 +230,7 @@ If you don’t want to reuse the sniffer for another shutter later, you can now 
 Connect GND to GND and VCC to 5V for both, the poti and the sender.
 Also connect the data connector of the sender to D7 and the remaining poti connector to A0.
 See the sketch for an example:</p>
-<p><img src="../schema_poti.png" width="auto" height="auto" alt/></p>
+<p><img src="../zzz/assets/shutter-controller/schema_poti.png" width="auto" height="auto" alt/></p>
 <h2 id="installation-and-callibration-of-the-software">Installation and callibration of the software<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#installation-and-callibration-of-the-software" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <p>The final step in this section is to install the software, and to provide some configuration values.</p>
 <ol>
@@ -346,7 +346,7 @@ The exact wiring is visualized in the following schema, as well as in the follow
 
 
 <div class="table-container"><table><thead><tr><th style="text-align:center;">NRF24</th><th style="text-align:center;">Arduino Nano</th><th style="text-align:center;">Pi 4</th></tr></thead><tbody><tr><td style="text-align:center;">VCC</td><td style="text-align:center;">3.3V</td><td style="text-align:center;">3.3V (e.g. 1)</td></tr><tr><td style="text-align:center;">GND</td><td style="text-align:center;">GND</td><td style="text-align:center;">GND (e.g. 6)</td></tr><tr><td style="text-align:center;">CSN</td><td style="text-align:center;">D10</td><td style="text-align:center;">GPIO7 (26)</td></tr><tr><td style="text-align:center;">CE</td><td style="text-align:center;">D9</td><td style="text-align:center;">GPIO22 (15)</td></tr><tr><td style="text-align:center;">MOSI</td><td style="text-align:center;">D11</td><td style="text-align:center;">GPIO10 (19)</td></tr><tr><td style="text-align:center;">SCK</td><td style="text-align:center;">D13</td><td style="text-align:center;">GPIO11 (23)</td></tr><tr><td style="text-align:center;">IRQ</td><td style="text-align:center;">-</td><td style="text-align:center;">-</td></tr><tr><td style="text-align:center;">MISO</td><td style="text-align:center;">D12</td><td style="text-align:center;">GPIO9 (21)</td></tr><tr><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td></tr></tbody></table></div>
-<p><a href="../schema_nrf24.png" class="internal" data-slug="schema_nrf24.png">schema_nrf24.png</a></p>
+<p><a href="../zzz/assets/shutter-controller/schema_nrf24.png" class="internal" data-slug="zzz/assets/shutter-controller/schema_nrf24.png">schema_nrf24.png</a></p>
 <h2 id="install-nrf24-library-for-arduino-and-raspberry-pi">Install NRF24 library for Arduino and Raspberry Pi<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#install-nrf24-library-for-arduino-and-raspberry-pi" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <p>Now we will install the library on Arduino and Raspberry Pi.
 There are various libraries available for the NRF24.
@@ -529,7 +529,7 @@ I chose to install the software as a docker container. A guide on how to do this
 <span data-line><span>    name: Close now</span></span>
 <span data-line><span>title: Rollladen</span></span></code></pre></figure>
 <p>This will provide the following card to you:</p>
-<p><img src="../screenshot_ha_shutter_card.png" width="auto" height="auto" alt/></p>
+<p><img src="../zzz/assets/shutter-controller/screenshot_ha_shutter_card.png" width="auto" height="auto" alt/></p>
 <p>By clicking enabling the switches you can turn on/off the various automations.
 You can also execute the commands manually by clicking on “Run”.
 If you want to change the parameters, e.g. for the automation, you can do this easily by
