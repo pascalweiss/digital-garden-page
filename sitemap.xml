@@ -1,18 +1,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/README</loc>
-    <lastmod>2025-03-03T08:29:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/1---indices/Psychologie</loc>
+    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/1---indices/Software-Engineering</loc>
+    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/1---indices/_root</loc>
+    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/2---disclaimer</loc>
+    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/3---impressum</loc>
+    <lastmod>2025-03-11T02:17:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
     <lastmod>2025-02-23T12:31:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/indices/Psychologie</loc>
-    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/indices/Software-Engineering</loc>
-    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/indices/_root</loc>
-    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/input/articles/Article---Caching-Strategies-top-ten</loc>
     <lastmod>2025-03-03T08:00:00.000Z</lastmod>
@@ -479,9 +482,6 @@
     <loc>https://quartz.jzhao.xyz/zettelkasten/Haftung-f%C3%BCr-fehlerhafte-Software-ProdHaftRL</loc>
     <lastmod>2025-03-03T08:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/zettelkasten/Haftungsausschluss</loc>
-    <lastmod>2025-03-03T08:00:00.000Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/zettelkasten/Handeln-und-Sein-im-Moment</loc>
     <lastmod>2025-03-03T08:00:00.000Z</lastmod>
   </url><url>
@@ -499,9 +499,6 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/zettelkasten/IT-Productivity</loc>
     <lastmod>2025-03-22T12:23:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/zettelkasten/Impressum</loc>
-    <lastmod>2025-03-11T02:17:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/zettelkasten/Infrastructure-and-Operations</loc>
     <lastmod>2025-03-03T08:00:00.000Z</lastmod>
